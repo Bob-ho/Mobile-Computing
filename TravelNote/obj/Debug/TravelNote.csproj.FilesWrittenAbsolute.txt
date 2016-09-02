@@ -1,0 +1,12 @@
+/Users/hominh/Desktop/Mobile Computing/TravelNote/obj/Debug/.NETPortable,Version=v4.5,Profile=Profile78.AssemblyAttribute.cs
+/Users/hominh/Desktop/Mobile Computing/TravelNote/obj/Debug/TravelNote.App.xaml.g.cs
+/Users/hominh/Desktop/Mobile Computing/TravelNote/obj/Debug/TravelNote.TravelNotePage.xaml.g.cs
+/Users/hominh/Desktop/Mobile Computing/TravelNote/obj/Debug/TravelNote.App.xaml
+/Users/hominh/Desktop/Mobile Computing/TravelNote/obj/Debug/TravelNote.TravelNotePage.xaml
+/Users/hominh/Desktop/Mobile Computing/TravelNote/bin/Debug/Xamarin.Forms.Core.dll
+/Users/hominh/Desktop/Mobile Computing/TravelNote/bin/Debug/Xamarin.Forms.Xaml.dll
+/Users/hominh/Desktop/Mobile Computing/TravelNote/bin/Debug/Xamarin.Forms.Platform.dll
+/Users/hominh/Desktop/Mobile Computing/TravelNote/bin/Debug/TravelNote.dll.mdb
+/Users/hominh/Desktop/Mobile Computing/TravelNote/bin/Debug/TravelNote.dll
+/Users/hominh/Desktop/Mobile Computing/TravelNote/obj/Debug/TravelNote.dll
+/Users/hominh/Desktop/Mobile Computing/TravelNote/obj/Debug/TravelNote.dll.mdb
